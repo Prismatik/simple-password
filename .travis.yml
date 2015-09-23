@@ -2,6 +2,4 @@ language: node_js
 node_js:
   - "4.1"
 before_install:
-  - sudo apt-get install build-essential
-  - sudo apt-get install gcc
-  - sudo apt-get install g++
+  - sudo apt-get install -qq build-essential gcc g++
