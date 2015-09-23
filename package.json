@@ -1,6 +1,6 @@
 {
   "name": "password",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple password hashing and verification.",
   "main": "index.js",
   "scripts": {
