@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Prismatik/password.svg)](https://travis-ci.org/Prismatik/password)
+
 # Password
 Simple password hashing and verification.
 
