@@ -19,7 +19,7 @@
     "auth"
   ],
   "engines": {
-    "node": "4.1.0"
+    "node": "4.0"
   },
   "author": "Nathan Winch <nwinch@gmail.com>",
   "license": "ISC",
