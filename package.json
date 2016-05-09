@@ -1,5 +1,5 @@
 {
-  "name": "password",
+  "name": "simple-password",
   "version": "1.0.1",
   "description": "Simple password hashing and verification.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Prismatik/password.git"
+    "url": "https://github.com/Prismatik/simple-password.git"
   },
   "keywords": [
     "password",
@@ -24,9 +24,9 @@
   "author": "Nathan Winch <nwinch@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Prismatik/password/issues"
+    "url": "https://github.com/Prismatik/simple-password/issues"
   },
-  "homepage": "https://github.com/Prismatik/password",
+  "homepage": "https://github.com/Prismatik/simple-password",
   "dependencies": {
     "bcrypt": "^0.8.5"
   },
