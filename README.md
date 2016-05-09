@@ -3,6 +3,9 @@
 # Password
 Simple password hashing and verification.
 
+## Installation
+`npm install promised-pass`
+
 ## Usage
 
 To create a password:
