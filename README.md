@@ -1,10 +1,10 @@
-[![Build Status](https://travis-ci.org/Prismatik/password.svg)](https://travis-ci.org/Prismatik/simple-password)
+[![Build Status](https://travis-ci.org/Prismatik/simple-password.svg)](https://travis-ci.org/Prismatik/simple-password)
 
-# Password
+# Simple Password
 Simple password hashing and verification.
 
 ## Installation
-`npm install simple-password
+`npm install simple-password`
 
 ## Usage
 
