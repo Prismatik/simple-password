@@ -1,4 +1,4 @@
-var bcrypt = require('bcrypt');
+var bcrypt = require('bcryptjs');
 var test = require('tape');
 var tapSpec = require('tap-spec');
 var password = require('../index');

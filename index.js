@@ -1,4 +1,4 @@
-var bcrypt = require('bcrypt');
+var bcrypt = require('bcryptjs');
 
 exports.create = function(pass, salt) {
   return new Promise((resolve, reject) => {
